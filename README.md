@@ -1,6 +1,6 @@
-# OPTIMA Prototyping Workshop
+# 
 
-# Medical Imaging Using AI: Workshop Prototype
+# OPTIMA Prototyping Workshop: Medical ImagingA Analysis Using AI
 
 This repository contains the resources and code for two AI-based medical imaging tasks. These tasks involve analyzing different types of medical images to aid in diagnosis and classification.
 
