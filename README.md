@@ -1,6 +1,6 @@
 # 
 
-# OPTIMA Prototyping Workshop: Medical ImagingA Analysis Using AI
+# OPTIMA Prototyping Workshop: Medical Imaging Analysis Using AI
 
 This repository contains the resources and code for two AI-based medical imaging tasks. These tasks involve analyzing different types of medical images to aid in diagnosis and classification.
 
@@ -39,5 +39,5 @@ Each task leverages AI techniques to process medical imaging data, providing ins
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/medical-imaging-ai.git
-   cd medical-imaging-ai
+   git clone https://github.com/vivek231/optima-prototyping-workshop-bci.git
+   cd optima-prototyping-workshop-bci
