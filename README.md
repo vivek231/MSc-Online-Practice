@@ -1,4 +1,4 @@
-!(https://drive.google.com/uc?1OaByag8cg1N-H6szx_JSvnbCeqVsJgKU)
+![Directory Flowchart](https://drive.google.com/uc?1OaByag8cg1N-H6szx_JSvnbCeqVsJgKU)
 
 # OPTIMA Prototyping Workshop: Medical Imaging Analysis Using AI
 
