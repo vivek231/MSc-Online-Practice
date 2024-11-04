@@ -223,6 +223,7 @@ For high-performance tasks, follow these steps to set up and access a Jupyter no
 
 # Running the Script on Google Colab
 ![Google Colab Logo](https://colab.research.google.com/img/colab_favicon.ico)
+
 Google Colab is a free cloud-based platform that allows you to run Python code in your browser without any setup.
 
 ## Prerequisites
