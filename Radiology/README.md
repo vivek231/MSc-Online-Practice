@@ -217,7 +217,7 @@ For high-performance tasks, follow these steps to set up and access a Jupyter no
 
 
 
-![Directory Flowchart](https://github.com/vivek231/optima-workshop-bci/tree/imaging-ai/Radiology/flowchart.png)
+![Directory Flowchart](https://github.com/vivek231/optima-prototyping-workshop-bci/tree/main/Radiology/flowchart.png)
 
 
 
