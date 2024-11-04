@@ -41,3 +41,7 @@ Each task leverages AI techniques to process medical imaging data, providing ins
    ```bash
    git clone https://github.com/vivek231/optima-prototyping-workshop-bci.git
    cd optima-prototyping-workshop-bci
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
