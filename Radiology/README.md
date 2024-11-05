@@ -215,6 +215,19 @@ For high-performance tasks, follow these steps to set up and access a Jupyter no
 
 ---
 
+## Dataset Access
+
+You can access the datasets via the following links:
+
+### Google Drive
+[![Google Drive](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Drive_logo_2020.svg/512px-Google_Drive_logo_2020.svg.png)](https://drive.google.com/drive/folders/10Pzju8Tx3M4BKY-5r26mcNa1IcwnUZc0?usp=sharing)
+[Google Drive Link](https://drive.google.com/drive/folders/10Pzju8Tx3M4BKY-5r26mcNa1IcwnUZc0?usp=sharing)
+
+### OneDrive
+[![OneDrive](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/OneDrive_Logo.png/512px-OneDrive_Logo.png)](https://qmulprod-my.sharepoint.com/:f:/r/personal/hfy432_qmul_ac_uk/Documents/AI4MedTech/OPTIMA/Prototype%20Workshop%20Nov%2024?csf=1&web=1&e=UnbJoa)
+[OneDrive Link](https://qmulprod-my.sharepoint.com/:f:/r/personal/hfy432_qmul_ac_uk/Documents/AI4MedTech/OPTIMA/Prototype%20Workshop%20Nov%2024?csf=1&web=1&e=UnbJoa)
+
+
 # Dataset & Source Codes Directory Structure 
 
 ![Directory Flowchart](https://drive.google.com/uc?id=19ekUe4giX42pGK_gslHYrC-toB1Hiv4V)
