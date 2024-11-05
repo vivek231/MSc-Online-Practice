@@ -56,6 +56,16 @@ To install the required packages on the HZDR High-Performance Computing (HPC) sy
 
 **Open Terminal and run: `bash packages.sh`**
 
+## Troubleshooting and Support
+
+If you encounter any issues or have questions, please feel free to contact:
+
+- **Vivek Singh** - [vivek.singh@qmul.ac.uk](mailto:vivek.singh@qmul.ac.uk)
+- **O.M. Carlos** - [o.m.carlos@qmul.ac.uk](mailto:o.m.carlos@qmul.ac.uk)
+
+We'll be happy to assist with any challenges or concerns.
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
