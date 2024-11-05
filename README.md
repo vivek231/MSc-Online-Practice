@@ -61,7 +61,7 @@ To install the required packages on the HZDR High-Performance Computing (HPC) sy
 If you encounter any issues or have questions, please feel free to contact:
 
 - **Vivek Singh** - [vivek.singh@qmul.ac.uk](mailto:vivek.singh@qmul.ac.uk)
-- **O.M. Carlos** - [o.m.carlos@qmul.ac.uk](mailto:o.m.carlos@qmul.ac.uk)
+- **Oscar M. Carlos** - [o.m.carlos@qmul.ac.uk](mailto:o.m.carlos@qmul.ac.uk)
 
 We'll be happy to assist with any challenges or concerns.
 
