@@ -217,8 +217,7 @@ For high-performance tasks, follow these steps to set up and access a Jupyter no
 
 
 
-![Directory Flowchart](https://github.com/vivek231/optima-workshop-bci/tree/imaging-ai/Radiology/flowchart.png)
-
+![Optima flowchart](https://github.com/user-attachments/assets/3ef85321-d60a-4e3d-b0c0-1468a08003ba)
 
 
 # Running the Script on Google Colab
