@@ -15,8 +15,9 @@ This repository contains the resources and code for two AI-based medical imaging
 
 This project includes two primary tasks using artificial intelligence for medical imaging:
 
-1. **Breast Lesion and Molecular Subtypes Prediction in Mammograms - Radiology**
-2. **Tissue Classification in Whole Slide Images (WSIs) - Digital Pathology**
+1. **Breast Lesion and Molecular Subtypes Prediction in Mammograms - [Radiology](#radiology-section)**
+2. **Tissue Classification in Whole Slide Images (WSIs) - [Digital Pathology](#digital-pathology-section)**
+
 
 Each task leverages AI techniques to process medical imaging data, providing insights that can assist healthcare professionals in diagnostic and treatment planning.
 
