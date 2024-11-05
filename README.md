@@ -15,9 +15,8 @@ This repository contains the resources and code for two AI-based medical imaging
 
 This project includes two primary tasks using artificial intelligence for medical imaging:
 
-1. **Breast Lesion and Molecular Subtypes Prediction in Mammograms - [Radiology](#radiology-section)**
-2. **Tissue Classification in Whole Slide Images (WSIs) - [Digital Pathology](#digital-pathology-section)**
-
+1. **Breast Lesion and Molecular Subtypes Prediction in Mammograms - [Radiology](#breast-lesion-and-molecular-subtypes-prediction-in-mammograms)**
+2. **Tissue Classification in Whole Slide Images (WSIs) - [Digital Pathology](#tissue-classification-in-whole-slide-images-wsis)**
 
 Each task leverages AI techniques to process medical imaging data, providing insights that can assist healthcare professionals in diagnostic and treatment planning.
 
@@ -26,6 +25,7 @@ Each task leverages AI techniques to process medical imaging data, providing ins
 ## Tasks
 
 ### 1. Breast Lesion and Molecular Subtypes Prediction in Mammograms
+<a name="breast-lesion-and-molecular-subtypes-prediction-in-mammograms"></a>
 
 - **Objective**: To predict breast lesion characteristics and molecular subtypes from mammographic images.
 - **Data**: Mammogram images annotated with lesion types and molecular subtypes.
@@ -33,6 +33,7 @@ Each task leverages AI techniques to process medical imaging data, providing ins
 - **Applications**: This model can help in early diagnosis and personalized treatment planning for breast cancer patients.
 
 ### 2. Tissue Classification in Whole Slide Images (WSIs)
+<a name="tissue-classification-in-whole-slide-images-wsis"></a>
 
 - **Objective**: To classify different tissue types in Whole Slide Images (WSIs) for diagnostic support in histopathology.
 - **Data**: High-resolution WSI data with annotated tissue classes.
