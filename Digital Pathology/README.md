@@ -217,9 +217,6 @@ For high-performance tasks, follow these steps to set up and access a Jupyter no
 
 
 
-![Optima flowchart](https://github.com/user-attachments/assets/3ef85321-d60a-4e3d-b0c0-1468a08003ba)
-
-
 # Running the Script on Google Colab
 ![Google Colab Logo](https://colab.research.google.com/img/colab_favicon.ico)
 
@@ -229,6 +226,10 @@ Google Colab is a free cloud-based platform that allows you to run Python code i
 
 - A Google account to access Google Colab.
 - Download Google Drive Optima Data Digital Pathology: https://drive.google.com/drive/folders/1ky3adjiEUVFyl4UoWaEW31v7xPpC1026?usp=sharing
+  
+## Dataset & Source Codes Directory Structure
+
+![Optima flowchart](https://github.com/user-attachments/assets/3ef85321-d60a-4e3d-b0c0-1468a08003ba)
 
 ## Steps to Run the Script
 
