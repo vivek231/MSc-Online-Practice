@@ -1,12 +1,4 @@
 
-<div align="center">
-    <img src="https://drive.google.com/uc?id=1OaByag8cg1N-H6szx_JSvnbCeqVsJgKU" alt="Directory Flowchart" style="margin: 10px;">
-    <img src="https://drive.google.com/uc?id=1cGa-1p24f6Owupu8X54D_aCsmJU2BIVG" alt="Directory Flowchart" style="margin: 10px;">
-    <h3>OPTIMA - Tackling Cancer through Real World Data</h3>
-</div>
-
-
-
 This repository contains the resources and code for two AI-based medical imaging tasks. These tasks involve analyzing different types of medical images to aid in diagnosis and classification.
 
 ---
