@@ -5,7 +5,7 @@
     <h3>OPTIMA - Tackling Cancer through Real World Data</h3>
 </div>
 
-# OPTIMA Prototyping Workshop: Medical Imaging Analysis Using AI
+
 
 This repository contains the resources and code for two AI-based medical imaging tasks. These tasks involve analyzing different types of medical images to aid in diagnosis and classification.
 
